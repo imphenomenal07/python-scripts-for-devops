@@ -1,4 +1,4 @@
-#8️. Calculate simple interest
+# 8️. Calculate simple interest
 
 #Formula: (P * R * T) / 100
 
